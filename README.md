@@ -61,6 +61,10 @@ This project is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/lic
 Right now, Reverse A.I. Mirror is in an open philosophical and developmental phase.  
 If you're curious, inspired, or want to collaborate — [open an issue](https://github.com/MarvinDeddens/Reverse-AI-Mirror/issues) or fork the repo.
 
+## Interaction Model
+For a deeper understanding of how Reverse A.I. Mirror interacts, see the [Interaction Model](docs/interaction-model.md).
+
+
 ---
 
 > **Reverse A.I. Mirror**  
