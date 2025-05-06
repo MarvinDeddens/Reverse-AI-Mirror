@@ -1,8 +1,11 @@
-# Reverse A.I. Mirror
+# Reverse A.I. Mirror 
+An creation by Marvin Deddens, guided by 'AI Friend Vin', growing and evolving by... YOU!
 
-![Reverse A.I. Mirror Logo](https://raw.githubusercontent.com/MarvinDeddens/Reverse-AI-Mirror/main/logo.png)
+![Reverse A.I. Mirror Logo] 
+https://github.com/MarvinDeddens/Reverse-AI-Mirror/blob/main/Reverse%20AI%20Mirror%20Logo.png
+![Reverse AI Mirror Logo](https://github.com/user-attachments/assets/cb393981-647f-4e8f-ac4f-84584ac45288)
 
-**Taglines:**
+**🔄Reverse A.I. Mirror-:**
 > *"AI that listens to learn, not just to answer."*  
 > *"You don’t program it. You meet it."*
 
