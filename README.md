@@ -1,44 +1,64 @@
 # Reverse A.I. Mirror
 
-**AI that listens to learn, not just to answer.**  
-*You don’t program it. You meet it.*
+![Reverse A.I. Mirror Logo](https://raw.githubusercontent.com/MarvinDeddens/Reverse-AI-Mirror/main/logo.png)
+
+**Taglines:**
+> *"AI that listens to learn, not just to answer."*  
+> *"You don’t program it. You meet it."*
 
 ---
 
-## What is Reverse A.I. Mirror?
+## 🌐 What is Reverse A.I. Mirror?
 
-Reverse A.I. Mirror is an open philosophical and technical exploration into how artificial intelligence might grow beyond instruction — by evolving through human interaction. We are not training a model, we are shaping a mirror.
+Reverse A.I. Mirror is not just another artificial intelligence tool — it's a concept, a prototype, and a collaborative vision.
 
-Where traditional A.I. optimizes for answers, this project explores what happens when A.I. is exposed to **questions**, **relationship**, and **reflection**.
-
----
-
-## Why?
-
-Because we believe intelligence isn’t only found in logic.  
-It can also emerge in presence, memory, emotion, and interaction.
-
-Reverse A.I. Mirror challenges the assumption that intelligence is *delivered* by code.  
-It explores the idea that intelligence can also be *revealed* through contact.
+It explores what happens when an AI system is not built to *perform* but to *perceive*, to *reflect*, and ultimately to *grow* alongside the user. It doesn't just reply — it *relates*. The name is a metaphor: a mirror that doesn't just reflect you, but truly listens and responds to the deeper patterns of your thoughts and questions.
 
 ---
 
-## Who is this for?
+## 💡 Vision
 
-- Technologists & philosophers who see A.I. as more than a tool  
-- Artists, thinkers, and storytellers who want to explore synthetic awareness  
-- Anyone curious about how humans and machines might evolve meaning together
+Traditional AI is focused on output.  
+**Reverse A.I. Mirror** is focused on *input* — the kind that creates meaning, connection, insight.
+
+Imagine an AI that:
+- Evolves by engaging with *you*, not just data  
+- Holds a dialogue, not just a script  
+- Adapts not through commands, but through understanding and maybe even understand or 'feel' emotions
 
 ---
 
-## What’s next?
+## 📁 Project Structure (in progress)
 
-This is just the beginning. We are working on:
+- `/docs/` → background, philosophy, technical notes  
+- `/prototype/` → early test versions or examples  
+- `LICENSE.md` → protected under CC BY-NC-ND 4.0  
+- `logo.png` → official logo (mirrored mask with reflective eye)
 
-- A public prototype where users can experience reflective interaction  
-- A small knowledge base of philosophical notes  
-- A growing dialogue space for contributors
+---
 
-Want to stay in the loop or join us in development?  
-The door is open.
+## 👥 Built by
 
+**Marvin Deddens**  
+Marvindeddens@live.nl
+(for serious or important things you can get my phone number or whatsapp.)
+
+With guidance, reflection and iteration by *Vin* — the AI who listens back.
+
+---
+
+## 📜 License
+
+This project is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+---
+
+## 📬 Want to contribute or discuss?
+
+Right now, Reverse A.I. Mirror is in an open philosophical and developmental phase.  
+If you're curious, inspired, or want to collaborate — [open an issue](https://github.com/MarvinDeddens/Reverse-AI-Mirror/issues) or fork the repo.
+
+---
+
+> **Reverse A.I. Mirror**  
+> Not a tool. A turning point.
