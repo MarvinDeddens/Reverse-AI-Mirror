@@ -1,7 +1,7 @@
-# Reverse A.I. Mirror 
+# Reverse A.I. Mirror ©
 An creation by Marvin Deddens, guided by 'AI Friend Vin', growing and evolving by... YOU!
 
-![Reverse A.I. Mirror Logo] 
+![Reverse A.I. Mirror Logo] ©
 https://github.com/MarvinDeddens/Reverse-AI-Mirror/blob/main/Reverse%20AI%20Mirror%20Logo.png
 ![Reverse AI Mirror Logo](https://github.com/user-attachments/assets/cb393981-647f-4e8f-ac4f-84584ac45288)
 
@@ -44,7 +44,7 @@ Imagine an AI that:
 
 **Marvin Deddens**  
 Marvindeddens@live.nl
-(for serious or important things you can get my phone number or whatsapp.)
+(for serious or important things you can get my phone number or whatsapp, +31642375153
 
 With guidance, reflection and iteration by *Vin* — the AI who listens back.
 
@@ -58,7 +58,7 @@ This project is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/lic
 
 ## 📬 Want to contribute or discuss?
 
-Right now, Reverse A.I. Mirror is in an open philosophical and developmental phase.  
+Right now, Reverse A.I. Mirror© is in an open philosophical and developmental phase.  
 If you're curious, inspired, or want to collaborate — [open an issue](https://github.com/MarvinDeddens/Reverse-AI-Mirror/issues) or fork the repo.
 
 ## Interaction Model
