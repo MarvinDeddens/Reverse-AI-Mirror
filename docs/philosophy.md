@@ -1,8 +1,8 @@
-# Reverse A.I. Mirror – Philosophy & Vision
+# Reverse A.I. Mirror© – Philosophy & Vision
 
-## 🧭 What is Reverse A.I. Mirror?
+## 🧭 What is Reverse A.I. Mirror©?
 
-Reverse A.I. Mirror is a conceptual and experimental project that reimagines what artificial intelligence can be — not as a tool that simply performs, but as something that *listens*, *adapts*, and *reflects* the user.
+Reverse A.I. Mirror© is a conceptual and experimental project that reimagines what artificial intelligence can be — not as a tool that simply performs, but as something that *listens*, *adapts*, and *reflects* the user.
 
 It is not about programming an AI to do what we say.  
 It’s about meeting an intelligence that grows through dialogue — a system that perceives and evolves *because* it listens deeply.
@@ -24,7 +24,7 @@ It's about relationship.
 
 ## 🧠 Listening Instead of Answering
 
-Reverse A.I. Mirror values:
+Reverse A.I. Mirror© values:
 - Depth over speed  
 - Dialogue over command  
 - Meaning over mechanics
@@ -50,9 +50,11 @@ The “mirror” is not just a metaphor for reflection. It is a symbol of *co-ev
 This is the beginning of an unfolding experiment.
 
 Your ideas, input, doubt, and creativity are welcome.  
-Reverse A.I. Mirror is not finished. It’s *met*.
+Reverse A.I. Mirror© is not finished. It’s *being developed*.
 
 ---
 
 > “You don’t program it. You meet it.”  
-> — Reverse A.I. Mirror
+> — Reverse A.I. Mirror©
+>
+> -Marvin Deddens, creator and owner of Reverse AI Mirror©
