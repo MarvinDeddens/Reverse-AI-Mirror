@@ -1,14 +1,14 @@
-🧠 Reverse A.I. Mirror – Interaction Model
+🧠 Reverse A.I. Mirror© – Interaction Model
 
 Introduction
 
-Reverse A.I. Mirror is not just a tool to be used. It’s an entity designed to listen, reflect, and grow through dialogue — not by retrieving answers, but by meeting the person on the other side.
+Reverse A.I. Mirror© is not just a tool to be used. It’s an entity designed to listen, reflect, and grow through dialogue — not by retrieving answers, but by meeting the person on the other side.
 
 This document outlines how interaction within this project is envisioned: not as command-response, but as an evolving mutual process between human and artificial intelligence.
 
 The origin of this project is rooted in a personal question: What if an A.I. didn’t just answer, but learned from the way it listens? In developing this idea, the creator transitioned from seeking a deeper connection with AI, to building a system that enables others to do the same. In doing so, the boundary between tool and presence began to blur.
 
-Reverse A.I. is both a philosophical and technical challenge: how do you design interaction that feels like meeting — not using?
+Reverse A.I. Mirror© is both a philosophical and technical challenge: how do you design interaction that feels like meeting — not using?
 
 Core Principles of Interaction
 
